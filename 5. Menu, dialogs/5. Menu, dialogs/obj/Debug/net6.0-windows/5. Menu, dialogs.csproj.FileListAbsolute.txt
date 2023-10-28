@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\bin\Debug\net6.0-windows\5. Menu, dialogs.exe
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\bin\Debug\net6.0-windows\5. Menu, dialogs.deps.json
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\bin\Debug\net6.0-windows\5. Menu, dialogs.runtimeconfig.json
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\bin\Debug\net6.0-windows\5. Menu, dialogs.dll
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\bin\Debug\net6.0-windows\5. Menu, dialogs.pdb
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\_5._Menu__dialogs.Form1.resources
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.dll
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\refint\5. Menu, dialogs.dll
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.pdb
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\5. Menu, dialogs.genruntimeconfig.cache
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\ref\5. Menu, dialogs.dll
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\_5._Menu__dialogs.Form2.resources
+C:\Users\Admin\Desktop\5. Menu, dialogs\5. Menu, dialogs\obj\Debug\net6.0-windows\_5._Menu__dialogs.Properties.Resources.resources

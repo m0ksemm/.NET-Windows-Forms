@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\3. Controls\3. Controls\bin\Debug\net6.0-windows\3. Controls.exe
+C:\Users\Admin\Desktop\3. Controls\3. Controls\bin\Debug\net6.0-windows\3. Controls.deps.json
+C:\Users\Admin\Desktop\3. Controls\3. Controls\bin\Debug\net6.0-windows\3. Controls.runtimeconfig.json
+C:\Users\Admin\Desktop\3. Controls\3. Controls\bin\Debug\net6.0-windows\3. Controls.dll
+C:\Users\Admin\Desktop\3. Controls\3. Controls\bin\Debug\net6.0-windows\3. Controls.pdb
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\_3._Controls.Form1.resources
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.AssemblyInfo.cs
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.dll
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\refint\3. Controls.dll
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.pdb
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\3. Controls.genruntimeconfig.cache
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\ref\3. Controls.dll
+C:\Users\Admin\Desktop\3. Controls\3. Controls\obj\Debug\net6.0-windows\_3._Controls.Properties.Resources.resources

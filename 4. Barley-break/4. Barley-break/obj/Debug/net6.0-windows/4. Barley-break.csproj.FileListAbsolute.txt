@@ -1,0 +1,54 @@
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.exe
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.deps.json
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.runtimeconfig.json
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.dll
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.pdb
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\_4._Barley_break.Form1.resources
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.dll
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\refint\4. Barley-break.dll
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.pdb
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.genruntimeconfig.cache
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\ref\4. Barley-break.dll
+C:\Users\Admin\source\repos\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\_4._Barley_break.Properties.Resources.resources
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.exe
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.deps.json
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.runtimeconfig.json
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.dll
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.pdb
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\_4._Barley_break.Form1.resources
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\_4._Barley_break.Properties.Resources.resources
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.AssemblyInfo.cs
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.dll
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\refint\4. Barley-break.dll
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.pdb
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.genruntimeconfig.cache
+C:\Users\Admin\Desktop\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\ref\4. Barley-break.dll
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.exe
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.deps.json
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.runtimeconfig.json
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.dll
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\bin\Debug\net6.0-windows\4. Barley-break.pdb
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\_4._Barley_break.Form1.resources
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\_4._Barley_break.Properties.Resources.resources
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.AssemblyInfo.cs
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.dll
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\refint\4. Barley-break.dll
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.pdb
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\4. Barley-break.genruntimeconfig.cache
+C:\Users\Admin\Desktop\1C#\4. Barley-break\4. Barley-break\obj\Debug\net6.0-windows\ref\4. Barley-break.dll
