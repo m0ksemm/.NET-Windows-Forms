@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\3. Controls\\3. Controls\\3. Controls.csproj": {}
+    "C:\\Users\\User\\Desktop\\Windows Forms\\3. Controls\\3. Controls\\3. Controls.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\3. Controls\\3. Controls\\3. Controls.csproj": {
+    "C:\\Users\\User\\Desktop\\Windows Forms\\3. Controls\\3. Controls\\3. Controls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\3. Controls\\3. Controls\\3. Controls.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Windows Forms\\3. Controls\\3. Controls\\3. Controls.csproj",
         "projectName": "3. Controls",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\3. Controls\\3. Controls\\3. Controls.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\3. Controls\\3. Controls\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Windows Forms\\3. Controls\\3. Controls\\3. Controls.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Windows Forms\\3. Controls\\3. Controls\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
